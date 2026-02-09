@@ -5,8 +5,8 @@ Projekat demonstrira osnovni ML tok: EDA, preprocessing (StandardScaler), klasif
 evaluaciju (accuracy, confusion matrix), PCA (2D) i KMeans klasterizaciju sa silhouette skorom.
 
 ## Sadržaj
-- notebook/InteligentniSistemi_Iris_Projekat_EXECUTED.ipynb – Jupyter notebook sa rezultatima (output i grafici)
-- izvestaj/Izvestaj_InteligentniSistemi_Iris.docx – Izveštaj sa konkretnim vrednostima i diskusijom
+- notebook/Iris_Projekat.ipynb – Jupyter notebook sa rezultatima (output i grafici)
+- izvestaj/Izvestaj_Iris.docx – Izveštaj sa konkretnim vrednostima i diskusijom
 
 ## Pokretanje
 Potrebno je imati instaliran Python i biblioteke:
